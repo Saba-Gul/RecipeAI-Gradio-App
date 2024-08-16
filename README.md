@@ -6,6 +6,8 @@ The RecipeAI Gradio App is a tool that generates recipes from food images. It le
 
 ![Alt Text](22.png)
 
+Try the app: https://sabagul-cooking-with-ai-recipebot.hf.space
+
 ## Features
 
 - **Image-to-Text Conversion**: Utilizes Salesforce's BLIP model to convert food images into textual descriptions.
@@ -62,4 +64,6 @@ Here's how to use the application:
 1. Open the app interface.
 2. Upload an image of the food item.
 3. Wait for the recipe to be generated and displayed on the screen.
+
+
 
