@@ -4,6 +4,8 @@
 
 The RecipeAI Gradio App is a tool that generates recipes from food images. It leverages state-of-the-art AI models to interpret images of food, generate a description, and then use that description to provide a recipe. This project uses a combination of Hugging Face's `transformers`, `langchain`, `OpenAI`, and `Gradio` to create an easy-to-use web interface for recipe generation.
 
+![Alt Text](22.png)
+
 ## Features
 
 - **Image-to-Text Conversion**: Utilizes Salesforce's BLIP model to convert food images into textual descriptions.
@@ -61,4 +63,3 @@ Here's how to use the application:
 2. Upload an image of the food item.
 3. Wait for the recipe to be generated and displayed on the screen.
 
-![Alt Text](22.png)
